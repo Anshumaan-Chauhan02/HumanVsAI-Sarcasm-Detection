@@ -9,3 +9,7 @@ I collected a sample of 120 non-sarcastic sentences from https://github.com/iabu
 
 ### Task Description
 The binary text classification task was to differentiate whether the sarcastic sentence made by a Human or an AI. The reason behind choosing this task was - we usually are not capable of easily figuring out whether the text is saracstic or not. Now considering that it is sarcastic, it is even harder to differentiate between a sarcastic sentence by a Human and an AI. Though there are some characteristics that can be used to figure out whether a sentence is made by an AI, but LLMs such as ChatGPT usually do not reflect such behavior in short sentences. Maybe this is evident in a paragraph or a short story.
+
+### Future Work 
+   #### Dataset 
+   In the future I would have collected datasets that have each entry with multiple sentences and long sequences, in order to fully utilize the errors that are made by AI models in such cases - such as sudden change of tone/sentiment and unusual facts (or structures) used that are not relevant. This would help the Machine Learning model to learn those characteristics and make more accurate predictions.
