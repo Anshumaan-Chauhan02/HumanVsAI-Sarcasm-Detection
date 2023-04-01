@@ -43,3 +43,7 @@ These were some of the aspects present in the current dataset and the adversaria
 ### Future Work 
    * In the future I would have collected datasets that have each entry with multiple sentences and long sequences, in order to fully utilize the errors that are made by AI models in such cases - such as sudden change of tone/sentiment and unusual facts (or structures) used that are not relevant. This would help the Machine Learning model to learn those characteristics and make more accurate predictions. Create a proper AI vs Human dataset, where ChatGPT, GPT3, and other AI models will be used to generate the AI samples and will be labeled correctly (not use human annotators). This would lead to have multiple types of sentences, and a drawback from one single model won't be taken advantage of. Examples of Human sarcastic comments will be extracted from various social media platforms, in order to cover aspects from people of different age groups and of different fields.
    *  Take a smaller model first, one of the reasons that could be attributed to the failure of BERT model is that with such a few examples, a model of more than 110M parameters could not be trained properly. Try faster (less parameterized) models such as DistilBert on the dataset and then move on to the complex models such as Bert, RoBERTa, etc. 
+
+<br><br><br>
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)
